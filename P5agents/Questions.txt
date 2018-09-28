@@ -1,0 +1,7 @@
+Questions:
+
+1. Does building a peasant cost 1 food? When we played the manual control, building a peasant added 1 food to our current food rather than deducting 1 food.
+
+2. Are we supposed to build 3 peasants on the board (and not any more) if we can only execute 3 parallel actions at a time?
+
+3. Are we limited to 3 parallel moves at a time?
